@@ -1,0 +1,6 @@
+<?php
+
+  function executeQuery($query) {
+
+  }
+?>
